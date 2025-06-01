@@ -45,6 +45,7 @@ A data analysis project to understand and reduce customer churn through data-dri
 - Power BI Dashboard for stakeholder use  
 
 ## Repository Contents
+- `dataset/` – Dataset, raw and processed
 - `notebooks/` – Python data preprocessing & EDA scripts  
 - `dashboard/` – Power BI `.pbix` file  
 - `report/` – Summary report (PDF)
