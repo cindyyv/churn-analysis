@@ -49,7 +49,10 @@ A data analysis project to understand and reduce customer churn through data-dri
 - `notebooks/` – Python data preprocessing & EDA scripts  
 - `dashboard/` – Power BI `.pbix` file  
 - `report/` – Summary report (PDF)
-- `README.md` – Project overview  
+- `README.md` – Project overview
+
+## Kaggle Link
+https://www.kaggle.com/code/cindyvv/telco-churn-analysis-who-s-leaving-and-why/
 
 ## Author
 **Cindy Valerie**  
