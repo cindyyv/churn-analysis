@@ -1,6 +1,8 @@
 # churn-analysis
 A data analysis project to understand and reduce customer churn through data-driven insights and visualizations using Python and Power BI.
 
+![Screenshot 2025-06-01 185836](https://github.com/user-attachments/assets/3c00e7ba-410d-4fe7-b8e9-4fa68c2504f7)
+
 ## Tools Used
 - Python (pandas, matplotlib, seaborn)
 - Power BI
@@ -25,7 +27,9 @@ A data analysis project to understand and reduce customer churn through data-dri
 - Matrix chart of churn rate by **internet & phone service combinations**  
 - 100% stacked bar chart for **customer types by churn**  
 - KPI tiles (e.g., churn rate, average tenure)  
-- Funnel chart & conditionally formatted customer tables  
+- Funnel chart & conditionally formatted customer tables
+  
+![Screenshot 2025-06-01 190009](https://github.com/user-attachments/assets/17e5f9cd-cf5b-4fea-92ec-0f9c07f7ae3c)
 
 ## Key Insights
 - **Senior citizens without dependents/partners** have higher churn risk  
@@ -57,3 +61,4 @@ https://www.kaggle.com/code/cindyvv/telco-churn-analysis-who-s-leaving-and-why/
 ## Author
 **Cindy Valerie**  
 [https://www.linkedin.com/in/cindyvv/] | [cindyvalerieev@gmail.com]
+
